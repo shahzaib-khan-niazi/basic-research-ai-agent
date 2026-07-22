@@ -2,7 +2,7 @@ import streamlit as st
 import traceback
 
 st.set_page_config(page_title="Research Assistant", page_icon="??")
-st.title("?? Research Assistant")
+st.title(" Research Assistant")
 
 try:
     from dotenv import load_dotenv
